@@ -13,9 +13,14 @@
   </head>
   <body>
     <section class="model">
-      <div>dot dot dot</div>
-      <h3>Payment Method</h3>
-      <div>
+      <div class="dots">
+        <span class="dot dark-dot"></span><span class="dot"></span
+        ><span class="dot"></span>
+      </div>
+      <div class="payment-title">
+        <h3>Payment Method</h3>
+      </div>
+      <div class="payment-items">
         <img
           src="./img/visa.svg"
           alt="Visa card logo"
@@ -24,32 +29,34 @@
         />
         <p>Visa</p>
       </div>
-      <div>
+      <div class="payment-items">
         <img
           src="./img/mastercard.svg"
-          alt="MasterCard card logo"
+          alt="Mastercard card logo"
           height="40px"
           width="40px"
         />
-        <p>Mastercard</p>
+        <p class="dark-card">Mastercard</p>
+        <img id="check" src="./img/check.svg" height="20px width="20px"></img>
       </div>
-      <div>
+      <div class="payment-items">
         <img
           src="./img/maestro.svg"
-          alt="Maestro card logo"
+          alt="Visa card logo"
           height="40px"
           width="40px"
         />
-        <p>Masestro</p>
+        <p>Maestro</p>
       </div>
-      <button>
-        Next Step<img
+      <div class="arrow-forward">
+        <p>Next Step</p>
+        <img
           src="./img/arrow.svg"
           alt="forward arrow"
-          height="20px"
-          width="20px"
+          height="14px"
+          width="14px"
         />
-      </button>
+      </div>
     </section>
   </body>
 </html>
