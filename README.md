@@ -1,8 +1,6 @@
 # FrontLoops_30_Days
 
-## Finished Projects
-
-## Screenshot
+## Screenshots of Finished Projects
 
 ## Day 1
 
