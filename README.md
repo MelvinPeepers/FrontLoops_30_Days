@@ -1,6 +1,6 @@
 # FrontLoops_30_Days
 
-## Finished Project
+## Finished Projects
 
 ## Screenshot
 
@@ -11,3 +11,7 @@
 ## Day 2
 
 ![day2.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day2/Day_2/assets/img/day2.png)
+
+## Day 3
+
+![day2.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day3/Day_3/assets/img/day3.png)
