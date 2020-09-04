@@ -136,9 +136,9 @@ General
 
 :root {
   --main-bg-color: #fff;
-  --btn-bg-color: #598bdd;
+  --btn-bg-color: #5a8bdd;
   --hover-txt-color: #000;
-  --main-txt-color: #999a9d;
+  --main-txt-color: #dedede;
   --btn-txt-color: #f3f8fe;
 }
 
@@ -192,6 +192,8 @@ Model
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
+  box-shadow: 0 22px 50px rgba(14, 21, 47, 0.2),
+    0 8px 20px rgba(14, 21, 47, 0.2);
 }
 
 .dots {
@@ -200,8 +202,8 @@ Model
 }
 
 .dot {
-  height: 5px;
-  width: 5px;
+  height: 6px;
+  width: 6px;
   background-color: var(--main-txt-color);
   border-radius: 50%;
   display: inline-block;
