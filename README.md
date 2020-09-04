@@ -11,3 +11,5 @@
 ![day2.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day2/Day_2/assets/img/day2.png)
 
 ## Day 3
+
+![day3.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day3/Day_3/assets/img/day2.png)
