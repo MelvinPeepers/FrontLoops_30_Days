@@ -1,15 +1,15 @@
-# FrontLoops_30_Days
+# FrontLoops_30_Projects
 
 ## Screenshots of Finished Projects
 
-## Day 1
+## Project 1
 
-![day1.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day1/Day_1/assets/img/day1.png)
+![project1.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day1/Day_1/assets/img/project1.png)
 
-## Day 2
+## Project 2
 
-![day2.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day2/Day_2/assets/img/day2.png)
+![project2.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day2/Day_2/assets/img/project2.png)
 
-## Day 3
+## Project 3
 
-![day3.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day3/Day_3/assets/img/Day3.png)
+![project3.png](https://github.com/MelvinPeepers/FrontLoops_30_Days/blob/Day3/Day_3/assets/img/project3.png)
