@@ -1,4 +1,4 @@
-# FrontLoops_30_Days
+# FrontLoops_30_Projects
 
 ## Screenshots of Finished Projects
 
