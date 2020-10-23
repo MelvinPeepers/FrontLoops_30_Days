@@ -247,3 +247,7 @@ Body
   display: flex;
   flex-direction: column;
 }
+
+.time {
+  opacity: 0.3;
+}
